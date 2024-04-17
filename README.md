@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#Welcome
-##I am currently studying, coding in python in a course that specialises in data science
+# Welcome
+## I am currently studying, coding in python in a course that specialises in data science
 <!--
 **Hass555/Hass555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
